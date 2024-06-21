@@ -22,8 +22,8 @@ type: "link"
 **我的信息：**
 
 ```
-网站名称：木雨与风的小圈
-网站地址：https://mufeng086.com
+网站名称：辰灿汐
+网站地址：https://aurorainic.top
 网站标志：https://img.aurorainic.top/i/2023/12/20/hcu3br.webp
 网站简介：以自己的一切面对世间
 ```
