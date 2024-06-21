@@ -1,0 +1,34 @@
+- title: 闲言碎语
+  subTitle: 日常地想法泡泡
+  tips: 人啊，牢骚完了还是要接着生活的。
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: 
+  essay_list:
+    - content: 20岁生日，顺便拿到了22年自己埋的时光胶囊。一如既往我的风格——说不出什么来的空话。
+      date: 2024.01.08
+      image:
+        - https://img.aurorainic.top/i/2024/01/09/1305r19.webp
+    - content: 快2024了... 今年感觉有些辜负时间了
+      date: 2023/12/22
+    - content: 考试/考证周... （1/2） 一团乱麻
+      date: 2023/12/18
+      image:
+        - https://img.aurorainic.top/i/2023/12/18/12hgunm.webp
+    - content: 一刻也没有为今天的餐饮实训考试结束而感慨，立刻赶到战场的是—— 明天的大学生创业作业PPT宣讲 （摊）
+      date: 2023.12.25
+    - content: 课越来越少了，总算舒服了点。然后“时日”也无多了——
+      date: 2023/11/27
+    - content: 曾经想过很多要干的事，而每每未来回过头看发现总是最多往前走了一点点罢了。
+      date: 2023/11/03
+    - content: 一切向好...了吗? ヾ(´･ ･｀｡)ノ"
+      date: 2023/10/31
+    - content: 重感冒确实好难受...
+      date: 2023/10/27
+    - content: 发现还是吃（虽然有些挑食）是最能感受时间在进行时中流逝的事情。(╯°A°)╯︵○○○
+      date: 2023/10/16
+    - content: 不知道在忙什么...
+      date: 2023/10/15
+

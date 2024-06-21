@@ -1,0 +1,206 @@
+- class_name: 关于页
+  subtitle: 行走在世间，要多认识个普通人吗？
+  avatarImg: https://img.aurorainic.top/i/2023/12/20/hcu3br.webp
+  avatarSkills:
+    left:
+      - 🤖️ 数码科技爱好者
+      - 🔍 分享与热心帮助
+    right:
+      - 脚踏实地行动派 🏃
+      - 团队小组发动机 🧱
+  name: 木雨与风
+  description: 学生、技术爱好者
+  aboutsiteTips:
+    tips: 探求
+    title1: 源于
+    title2: 那些未知且有意思的事
+    word:
+      - 生活
+      - 折腾
+      - ACG
+  helloAbout: 你好呀~
+  skillsTips:
+    tips: 技能
+    title: 开启创造力
+  careers:
+    tips: 生涯
+    title: 无限进步
+    list:
+      - desc: NTVU,高速铁路客运服务
+        color: "#357ef5"
+    img: https://bu.dusays.com/2023/04/21/644287166329b.png
+  statistic:
+    link: /archives
+    text: 文章隧道
+    cover: https://bu.dusays.com/2023/05/01/644f4b037b930.jpg
+  map:
+    title: 位于
+    StrengthenTitle: 中国，江苏省
+    background: https://img.aurorainic.top/i/2023/12/21/w5jnxi.webp
+    backgroundDark: https://img.aurorainic.top/i/2023/12/21/w5jnxi.webp
+  selfInfo:
+    selfInfoTips1: 生于
+    selfInfoContentYear: 2004
+    selfInfoTips2: 家乡
+    selfInfoContent2: 安徽
+    selfInfoTips3: 喜欢的东西
+    selfInfoContent3: 吃...吧？
+  personalities:
+    author_name: 守卫者
+    personality_type: ISFJ-A
+    photo_url: https://img.aurorainic.top/i/2023/12/20/r4mntk.webp
+    personality_img: /img/ISFJ-A.svg
+    name_url: https://www.16personalities.com/ch/isfj-%E4%BA%BA%E6%A0%BC
+  maxim:
+    maxim_tips: 座右铭
+    maxim_top: 热爱依然，
+    maxim_bottom: 生活仍然。
+  buff:
+    buff_tips: 特点
+    buff_top: 如镜湖般冷静
+    buff_bottom: 万事也无可扰动心绪
+  game:
+    game_tips: 主玩游戏
+    game_title: 旋转音律Rotaeno
+    game_uid: "ID: crknqy"
+    game_bg: https://img.aurorainic.top/i/2023/12/20/qqe3le.webp
+  comic:
+    comic_tips: 爱好番剧
+    comic_title: 追番
+    comic_list:
+      - name: 间谍过家家
+        href: https://www.bilibili.com/bangumi/media/md28237119/
+        cover: https://img.aurorainic.top/i/2023/12/20/quy2x1.webp
+      - name: 别当欧尼酱了！
+        href: https://www.bilibili.com/bangumi/media/md28480920/
+        cover: https://img.aurorainic.top/i/2023/12/20/qrnb0v.webp
+      - name: 擅长捉弄的高木同学
+        href: https://www.bilibili.com/bangumi/media/md28235860/
+        cover: https://img.aurorainic.top/i/2023/12/20/qworxp.webp
+      - name: 明日方舟·冬隐归路
+        href: https://www.bilibili.com/bangumi/media/md21085589/
+        cover: https://img.aurorainic.top/i/2023/12/20/qwvqyw.webp
+      - name: 测不准的阿波连同学
+        href: https://www.bilibili.com/bangumi/media/md28234872/
+        cover: https://img.aurorainic.top/i/2023/12/20/qxi2s0.webp
+  like:
+    like_tips: 关注偏好
+    like_title: 数码科技
+    like_bg: https://bu.dusays.com/2022/12/06/638f5f05ce1f7.jpg
+    like_bottom: 手机、电脑软硬件
+  music:
+    music_tips: 音乐偏好
+    music_title: 轻音乐、音游曲、动漫内曲
+    music_bg: https://img.aurorainic.top/i/2023/12/21/w7btdn.webp
+    music_link: /music
+  reward_list:
+    - name: Kibidango086
+      amount: 1.34
+      datatime: 2023-05-13
+      suffix: 贝壳
+    - name: 子衿シ
+      amount:  3.36
+      datatime: 2023-06-06
+      suffix: 贝壳
+    - name: 子衿シ
+      amount: 3.36
+      datatime: 2023-07-14
+      suffix: 贝壳
+    - name: 菜_昔
+      amount: 2.02
+      datatime: 2023-08-09
+      suffix: 贝壳
+    - name: 不娶石姚不改名
+      amount: 223.85
+      datatime: 2023-08-11
+      suffix: 贝壳
+    - name: 蛋筒IceCream
+      amount: 156.58
+      datatime: 2023-08-16
+      suffix: 贝壳
+    - name: Alone生亦何欢
+      amount: 1.34
+      datatime: 2023-08-24
+      suffix: 贝壳
+    - name: 菜_昔
+      amount: 2.02
+      datatime: 2023-09-03
+      suffix: 贝壳
+    - name: 子衿シ
+      amount: 3.36
+      datatime: 2023-09-29
+      suffix: 贝壳
+    - name: 菜_昔
+      amount: 1.34
+      datatime: 2023-10-03
+      suffix: 贝壳
+    - name: 焚狐-
+      amount: 4.03
+      datatime: 2023-10-10
+      suffix: 贝壳
+    - name: 山河纵
+      amount: 4.03
+      datatime: 2023-11-30
+      suffix: 贝壳
+    - name: 爱发电用户_cc39b
+      amount: 20
+      datatime: 2023-10-21
+    - name: 当道の咸鱼
+      amount: 30
+      datatime: 2023-10-21
+    - name: 砚南
+      amount: 5
+      datatime: 2023-08-25
+    - name: 爱发电用户_6c1ef
+      amount: 30
+      datatime: 2023-08-18
+    - name: 郑
+      amount: 10
+      datatime: 2023-08-17
+    - name: 爱发电用户_316b8
+      amount: 10
+      datatime: 2023-08-16
+    - name: 尼古丁真
+      amount: 20
+      datatime: 2023-08-16
+    - name: cy
+      amount: 17
+      datatime: 2023-08-16
+    - name: 对方正在输入...
+      amount: 23.33
+      datatime: 2023-08-16
+    - name: 嘿嘿嘿
+      amount: 20
+      datatime: 2023-08-16
+    - name: 爱发电用户_JSVE
+      amount: 5
+      datatime: 2023-05-18
+    - name: 阿巴Abba_
+      amount: 20
+      datatime: 2023-08-16
+    - name: 坐等
+      amount: 50
+      datatime: 2023-08-16
+    - name: Sakura
+      amount: 20
+      datatime: 2023-10-12
+    - name: Carribia
+      amount: 6
+      datatime: 2024-01-15
+    - name: 铃儿摸出个袖袖
+      amount: 6
+      datatime: 2024-01-15
+    - name: Deutschman
+      amount: 6
+      datatime: 2024-01-15
+    - name: 泽熙盛世
+      amount: 1.7
+      datatime: 2024-01-15
+      suffix: 贝壳
+    - name: 古手川千纱是我爱人
+      amount: 6
+      datatime: 2024-01-16
+    - name: 爱高木的南栀
+      amount: 3.36
+      datatime: 2024-02-12
+      suffix: 贝壳

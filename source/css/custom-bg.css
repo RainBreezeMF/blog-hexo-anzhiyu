@@ -1,0 +1,15 @@
+[data-theme=light] #body-wrap {
+  background-image: url(https://img.aurorainic.top/i/2023/12/21/ucndpp.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+/* 黑夜背景 */
+[data-theme=dark] #body-wrap {
+  background-image: url(https://img.aurorainic.top/i/2023/12/21/uco39v.webp);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
